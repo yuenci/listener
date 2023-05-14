@@ -1,0 +1,3163 @@
+{
+    "all": [
+        {
+            "num": 21,
+            "time": {
+                "start": 49.96,
+                "end": 52.76
+            },
+            "english": "There's nothing to tell. It's just some guy I work with.",
+            "chinese": "没什么好说的！他只不过是我的同事"
+        },
+        {
+            "num": 22,
+            "time": {
+                "start": 52.96,
+                "end": 55.13
+            },
+            "english": "Come on. You're going out with a guy.",
+            "chinese": "少来了，和你交往的男人…"
+        },
+        {
+            "num": 23,
+            "time": {
+                "start": 55.3,
+                "end": 57.84
+            },
+            "english": "There's gotta be something wrong with him.",
+            "chinese": "多多少少一定有点问题！"
+        },
+        {
+            "num": 24,
+            "time": {
+                "start": 58.05,
+                "end": 59.93
+            },
+            "english": "So does he have a hump and a hair piece?",
+            "chinese": "他既驼背又戴假发？"
+        },
+        {
+            "num": 25,
+            "time": {
+                "start": 62.39,
+                "end": 63.77
+            },
+            "english": "Wait. Does he eat chalk?",
+            "chinese": "等一下，他是不是会吃粉笔？"
+        },
+        {
+            "num": 26,
+            "time": {
+                "start": 65.02,
+                "end": 68.23
+            },
+            "english": "I don't want her to go through what I went through with Carl. Oh.",
+            "chinese": "我只是不希望你 重蹈我和卡尔的覆辙"
+        },
+        {
+            "num": 28,
+            "time": {
+                "start": 68.44,
+                "end": 71.23
+            },
+            "english": "Okay, everybody relax. This is not even a date.",
+            "chinese": "各位放轻松，这不算约会"
+        },
+        {
+            "num": 29,
+            "time": {
+                "start": 71.44,
+                "end": 74.4
+            },
+            "english": "It's just two people going out to dinner and not having sex.",
+            "chinese": "不过是两个人一起出去吃晚餐 而且不上床"
+        },
+        {
+            "num": 30,
+            "time": {
+                "start": 74.61,
+                "end": 76.15
+            },
+            "english": "Sounds like a date to me.",
+            "chinese": "对我来说这就是约会"
+        },
+        {
+            "num": 32,
+            "time": {
+                "start": 79.03,
+                "end": 81.87
+            },
+            "english": "I'm back in high school, in the middle of the cafeteria...",
+            "chinese": "做了个梦，在中学时代 我站在餐厅中央…"
+        },
+        {
+            "num": 33,
+            "time": {
+                "start": 82.08,
+                "end": 85.41
+            },
+            "english": "...and I realize I'm totally naked.",
+            "chinese": "突然发现自己全身赤裸"
+        },
+        {
+            "num": 34,
+            "time": {
+                "start": 85.62,
+                "end": 87.16
+            },
+            "english": "- Oh, yeah. - I've had that dream.",
+            "chinese": "- 对，没错 - 我做过那样的梦"
+        },
+        {
+            "num": 35,
+            "time": {
+                "start": 87.37,
+                "end": 91.46000000000001
+            },
+            "english": "Then I look down and I realize there is a phone...",
+            "chinese": "我低头一看，看见有一个电话…"
+        },
+        {
+            "num": 36,
+            "time": {
+                "start": 92.05,
+                "end": 94.0
+            },
+            "english": "...there.",
+            "chinese": "在那里"
+        },
+        {
+            "num": 37,
+            "time": {
+                "start": 94.92,
+                "end": 96.84
+            },
+            "english": "- Instead of... - That's right!",
+            "chinese": "- 而不是… - 没错"
+        },
+        {
+            "num": 38,
+            "time": {
+                "start": 97.05,
+                "end": 98.55
+            },
+            "english": "MONICA: That one, I've never had. PHOEBE: No.",
+            "chinese": "- 我没做过那样的梦 - 没有"
+        },
+        {
+            "num": 39,
+            "time": {
+                "start": 98.72,
+                "end": 102.85
+            },
+            "english": "All of a sudden, the phone starts to ring.",
+            "chinese": "突然，那个电话响了"
+        },
+        {
+            "num": 40,
+            "time": {
+                "start": 103.06,
+                "end": 104.81
+            },
+            "english": "And it turns out it's my mother.",
+            "chinese": "结果是我妈妈打来的"
+        },
+        {
+            "num": 41,
+            "time": {
+                "start": 106.56,
+                "end": 110.85
+            },
+            "english": "Which is very, very weird because she never calls me.",
+            "chinese": "这非常奇怪 因为她从来都不会打电话给我！"
+        },
+        {
+            "num": 43,
+            "time": {
+                "start": 115.86,
+                "end": 117.78
+            },
+            "english": "Hi.",
+            "chinese": "嗨"
+        },
+        {
+            "num": 44,
+            "time": {
+                "start": 118.78,
+                "end": 121.95
+            },
+            "english": "This guy says \"hello,\" I wanna kill myself.",
+            "chinese": "这家伙说〝嗨〞的时候 我却想杀了我自己"
+        },
+        {
+            "num": 45,
+            "time": {
+                "start": 122.24,
+                "end": 123.41
+            },
+            "english": "Are you okay, sweetie?",
+            "chinese": "你还好吧，亲爱的？"
+        },
+        {
+            "num": 46,
+            "time": {
+                "start": 123.66,
+                "end": 128.33
+            },
+            "english": "I feel like someone grabbed my small intestine, pulled it out of my mouth...",
+            "chinese": "我就感觉好像某人伸手进我的喉咙 抓住我的小肠，从我的嘴里拉出来"
+        },
+        {
+            "num": 47,
+            "time": {
+                "start": 128.5,
+                "end": 131.38
+            },
+            "english": "...and tied it around my neck. - Cookie?",
+            "chinese": "- 再在我的脖子上打结… - 要吃饼干吗？"
+        },
+        {
+            "num": 48,
+            "time": {
+                "start": 133.38,
+                "end": 134.88
+            },
+            "english": "Carol moved her stuff out today.",
+            "chinese": "卡萝今天搬走了她的东西"
+        },
+        {
+            "num": 49,
+            "time": {
+                "start": 135.09,
+                "end": 136.13
+            },
+            "english": "PHOEBE & JOEY: Oh.",
+            "chinese": "哦"
+        },
+        {
+            "num": 50,
+            "time": {
+                "start": 136.3,
+                "end": 138.09
+            },
+            "english": "- Let me get you some coffee. - Thanks.",
+            "chinese": "- 我给你拿杯咖啡 - 谢谢"
+        },
+        {
+            "num": 51,
+            "time": {
+                "start": 141.05,
+                "end": 142.8
+            },
+            "english": "Ew. Unh.",
+            "chinese": "呃"
+        },
+        {
+            "num": 52,
+            "time": {
+                "start": 142.97,
+                "end": 146.93
+            },
+            "english": "No. No, don't! Stop cleansing my aura.",
+            "chinese": "不，不要！ 不要清理我的光环！"
+        },
+        {
+            "num": 53,
+            "time": {
+                "start": 147.23,
+                "end": 149.77
+            },
+            "english": "Just leave my aura alone, okay?",
+            "chinese": "不要管我的光环，好吗？"
+        },
+        {
+            "num": 54,
+            "time": {
+                "start": 151.77,
+                "end": 154.65
+            },
+            "english": "I'll be fine. All right? Really. I hope she'll be very happy.",
+            "chinese": "我会没事的，好吗？真的 我希望她开心"
+        },
+        {
+            "num": 55,
+            "time": {
+                "start": 154.82,
+                "end": 156.15
+            },
+            "english": "- No, you don't. - No, I don't.",
+            "chinese": "- 不，你并不希望 - 是的，我不希望！"
+        },
+        {
+            "num": 56,
+            "time": {
+                "start": 156.32,
+                "end": 158.15
+            },
+            "english": "To hell with her. She left me!",
+            "chinese": "叫她去死，是她离开了我！"
+        },
+        {
+            "num": 57,
+            "time": {
+                "start": 159.2,
+                "end": 161.16
+            },
+            "english": "And you never knew she was a lesbian.",
+            "chinese": "你从来都不知道她是女同性恋"
+        },
+        {
+            "num": 58,
+            "time": {
+                "start": 165.2,
+                "end": 167.37
+            },
+            "english": "No! Okay?",
+            "chinese": "不知道！行了吧！"
+        },
+        {
+            "num": 59,
+            "time": {
+                "start": 167.54,
+                "end": 170.32999999999998
+            },
+            "english": "Why does everyone keep fixating on that?",
+            "chinese": "为什么每个人老是要提出来？"
+        },
+        {
+            "num": 60,
+            "time": {
+                "start": 171.96,
+                "end": 174.75
+            },
+            "english": "She didn't know. How should I know?",
+            "chinese": "她都不知道，我又怎么会知道？"
+        },
+        {
+            "num": 61,
+            "time": {
+                "start": 176.59,
+                "end": 179.26
+            },
+            "english": "Sometimes I wish I was a lesbian.",
+            "chinese": "有时候我希望我是女同性恋…"
+        },
+        {
+            "num": 62,
+            "time": {
+                "start": 180.88,
+                "end": 182.89
+            },
+            "english": "Did I say that out loud?",
+            "chinese": "我讲得很大声吗？"
+        },
+        {
+            "num": 63,
+            "time": {
+                "start": 184.8,
+                "end": 188.89
+            },
+            "english": "All right, Ross. Look, you're feeling a lot of pain right now.",
+            "chinese": "没事的，罗斯 你现在感到很痛苦"
+        },
+        {
+            "num": 64,
+            "time": {
+                "start": 189.06,
+                "end": 191.48
+            },
+            "english": "You're angry. You're hurting.",
+            "chinese": "你很生气，很伤心"
+        },
+        {
+            "num": 65,
+            "time": {
+                "start": 191.73,
+                "end": 193.94
+            },
+            "english": "Can I tell you what the answer is?",
+            "chinese": "我能告诉你解决方法是什么吗？"
+        },
+        {
+            "num": 66,
+            "time": {
+                "start": 194.15,
+                "end": 195.44
+            },
+            "english": "Strip joints!",
+            "chinese": "脱衣舞厅！"
+        },
+        {
+            "num": 67,
+            "time": {
+                "start": 197.61,
+                "end": 199.94
+            },
+            "english": "Come on, you're single. Have some hormones.",
+            "chinese": "别这样，你单身了！有需求的！"
+        },
+        {
+            "num": 68,
+            "time": {
+                "start": 200.15,
+                "end": 202.45
+            },
+            "english": "See, but I don't want to be single, okay?",
+            "chinese": "我不想单身，好吗？"
+        },
+        {
+            "num": 69,
+            "time": {
+                "start": 202.66,
+                "end": 205.82
+            },
+            "english": "I just wanna be married again.",
+            "chinese": "我只想…再次结婚！"
+        },
+        {
+            "num": 70,
+            "time": {
+                "start": 209.95,
+                "end": 213.07999999999998
+            },
+            "english": "And I just want a million dollars!",
+            "chinese": "而我只想要一百万美金！"
+        },
+        {
+            "num": 71,
+            "time": {
+                "start": 214.21,
+                "end": 215.29
+            },
+            "english": "Rachel?",
+            "chinese": "瑞秋！"
+        },
+        {
+            "num": 72,
+            "time": {
+                "start": 215.46,
+                "end": 218.17000000000002
+            },
+            "english": "Oh, God, Monica! Hi! Thank God!",
+            "chinese": "噢，老天爷，摩妮卡 感谢上帝！"
+        },
+        {
+            "num": 73,
+            "time": {
+                "start": 218.34,
+                "end": 221.51
+            },
+            "english": "I went to your building and this guy with a hammer said...",
+            "chinese": "我刚到你那里去，而你不在 那个拿着大锤子的家伙说"
+        },
+        {
+            "num": 74,
+            "time": {
+                "start": 221.67000000000002,
+                "end": 223.88
+            },
+            "english": "...that you might be here, and you are.",
+            "chinese": "你可能在这里 你真在这里！"
+        },
+        {
+            "num": 75,
+            "time": {
+                "start": 224.14,
+                "end": 227.64
+            },
+            "english": "- Can I get you some coffee? - Decaf.",
+            "chinese": "- 你想喝点咖啡吗？ - 无咖啡因的"
+        },
+        {
+            "num": 76,
+            "time": {
+                "start": 228.22,
+                "end": 232.18
+            },
+            "english": "Okay, everybody, this is Rachel, another Lincoln High survivor.",
+            "chinese": "好了，各位，这位是瑞秋 另一个林肯高中的幸存者"
+        },
+        {
+            "num": 77,
+            "time": {
+                "start": 232.44,
+                "end": 234.9
+            },
+            "english": "This is everybody. This is Chandler and Phoebe...",
+            "chinese": "这就是各位 这是钱德、菲比"
+        },
+        {
+            "num": 78,
+            "time": {
+                "start": 235.1,
+                "end": 237.36
+            },
+            "english": "...and Joey. And remember my brother, Ross?",
+            "chinese": "乔伊，还有 你还记得我哥哥罗斯吗？"
+        },
+        {
+            "num": 79,
+            "time": {
+                "start": 237.52,
+                "end": 238.65
+            },
+            "english": "- Sure! - Hey.",
+            "chinese": "- 当然，嘿！ - 嘿"
+        },
+        {
+            "num": 80,
+            "time": {
+                "start": 238.82,
+                "end": 240.73
+            },
+            "english": "- Hi. - Oh, God.",
+            "chinese": "- 嗨 - 天啊"
+        },
+        {
+            "num": 81,
+            "time": {
+                "start": 248.53,
+                "end": 252.12
+            },
+            "english": "So you wanna tell us now, or are we waiting for four wet bridesmaids?",
+            "chinese": "那你现在可以告诉我们了吗 还是说我们在等着四位湿漉的伴娘?"
+        },
+        {
+            "num": 82,
+            "time": {
+                "start": 254.37,
+                "end": 259.34
+            },
+            "english": "Oh, God! Well, it started about a half-hour before the wedding.",
+            "chinese": "好吧，大概在婚礼前半个小时"
+        },
+        {
+            "num": 83,
+            "time": {
+                "start": 259.5,
+                "end": 261.92
+            },
+            "english": "I was in this room with all the presents...",
+            "chinese": "我在礼物间里"
+        },
+        {
+            "num": 84,
+            "time": {
+                "start": 262.09,
+                "end": 263.92
+            },
+            "english": "...and I was looking at this gravy boat.",
+            "chinese": "看着那个肉汁壶"
+        },
+        {
+            "num": 85,
+            "time": {
+                "start": 264.13,
+                "end": 267.55
+            },
+            "english": "This really gorgeous Limoges gravy boat.",
+            "chinese": "那是个非常好看的肉汁壶"
+        },
+        {
+            "num": 86,
+            "time": {
+                "start": 267.72,
+                "end": 269.55
+            },
+            "english": "When all of a sudden... Sweet 'N Low?",
+            "chinese": "然后，突然…　有代糖吗？"
+        },
+        {
+            "num": 87,
+            "time": {
+                "start": 269.72,
+                "end": 271.85
+            },
+            "english": "- I realized...",
+            "chinese": "我发现…"
+        },
+        {
+            "num": 88,
+            "time": {
+                "start": 272.02,
+                "end": 275.94
+            },
+            "english": "...I was more turned on by this gravy boat than by Barry.",
+            "chinese": "我对这个肉汁壶 比对巴瑞更有冲动！"
+        },
+        {
+            "num": 89,
+            "time": {
+                "start": 276.1,
+                "end": 279.15
+            },
+            "english": "Then I got really freaked out, and that's when it hit me:",
+            "chinese": "然后我吓呆了 然后这个想法突然出现在脑中："
+        },
+        {
+            "num": 90,
+            "time": {
+                "start": 279.32,
+                "end": 282.11
+            },
+            "english": "How much Barry looks like Mr. Potato Head.",
+            "chinese": "巴瑞看起来多像洋芋头先生啊"
+        },
+        {
+            "num": 91,
+            "time": {
+                "start": 282.53,
+                "end": 285.78
+            },
+            "english": "You know, I mean, I always knew he looked familiar, but...",
+            "chinese": "我总是觉得他眼熟，但是…"
+        },
+        {
+            "num": 92,
+            "time": {
+                "start": 287.95,
+                "end": 291.29
+            },
+            "english": "Anyway, I just had to get out of there, and I started wondering:",
+            "chinese": "总之 我必须离开那里，我在想："
+        },
+        {
+            "num": 93,
+            "time": {
+                "start": 291.54,
+                "end": 295.12
+            },
+            "english": "\"Why am I doing this?\" And \"Who am I doing this for?\"",
+            "chinese": "〝我为什么这样做，我为谁这样做？〞"
+        },
+        {
+            "num": 94,
+            "time": {
+                "start": 295.29,
+                "end": 299.67
+            },
+            "english": "Anyway, I just didn't know where to go, and I know you and I have drifted apart...",
+            "chinese": "我不知道该去哪里 而且我知道我和你有点疏远了"
+        },
+        {
+            "num": 95,
+            "time": {
+                "start": 299.88,
+                "end": 302.71
+            },
+            "english": "...but you're the only person I know in the city.",
+            "chinese": "但你是我这个城市里唯一认识的人"
+        },
+        {
+            "num": 96,
+            "time": {
+                "start": 302.92,
+                "end": 304.59
+            },
+            "english": "Who wasn't invited to the wedding.",
+            "chinese": "而且没有受邀参加你的婚礼"
+        },
+        {
+            "num": 97,
+            "time": {
+                "start": 304.97,
+                "end": 307.88
+            },
+            "english": "Oh, I was kind of hoping that wouldn't be an issue.",
+            "chinese": "噢，我希望你不会把它当一回事…"
+        },
+        {
+            "num": 98,
+            "time": {
+                "start": 322.07,
+                "end": 324.57
+            },
+            "english": "I'm guessing he bought her the big pipe organ...",
+            "chinese": "我猜他给她买了个管风琴"
+        },
+        {
+            "num": 99,
+            "time": {
+                "start": 324.74,
+                "end": 327.2
+            },
+            "english": "...and she's really not happy about it.",
+            "chinese": "而她很不喜欢那个"
+        },
+        {
+            "num": 100,
+            "time": {
+                "start": 328.45,
+                "end": 331.49
+            },
+            "english": "Daddy, I just... I can't marry him.",
+            "chinese": "老爸，我就是无法和他结婚"
+        },
+        {
+            "num": 101,
+            "time": {
+                "start": 331.66,
+                "end": 333.33
+            },
+            "english": "I'm sorry.",
+            "chinese": "对不起"
+        },
+        {
+            "num": 102,
+            "time": {
+                "start": 333.49,
+                "end": 336.37
+            },
+            "english": "I just don't love him.",
+            "chinese": "我只是不爱他了"
+        },
+        {
+            "num": 103,
+            "time": {
+                "start": 336.83,
+                "end": 339.5
+            },
+            "english": "Well, it matters to me.",
+            "chinese": "这对我很有关系！"
+        },
+        {
+            "num": 104,
+            "time": {
+                "start": 342.0,
+                "end": 344.38
+            },
+            "english": "CHANDLER: She should not be wearing those pants.",
+            "chinese": "她真不应该穿那条裤子"
+        },
+        {
+            "num": 105,
+            "time": {
+                "start": 345.59000000000003,
+                "end": 347.55
+            },
+            "english": "I say push her down the stairs.",
+            "chinese": "我觉得应该把她推下楼"
+        },
+        {
+            "num": 106,
+            "time": {
+                "start": 347.76,
+                "end": 350.97
+            },
+            "english": "ALL: Push her down the stairs! Push her down the stairs!",
+            "chinese": "把她推下楼…"
+        },
+        {
+            "num": 107,
+            "time": {
+                "start": 355.22,
+                "end": 357.23
+            },
+            "english": "Come on, Daddy, listen to me!",
+            "chinese": "爸爸，听我说！"
+        },
+        {
+            "num": 108,
+            "time": {
+                "start": 357.44,
+                "end": 361.98
+            },
+            "english": "It's like all of my life, everyone's always told me, \"You're a shoe!",
+            "chinese": "这就好像在我一生中 所有人都告诉我：〝你是鞋子！〞"
+        },
+        {
+            "num": 109,
+            "time": {
+                "start": 362.15,
+                "end": 364.23
+            },
+            "english": "You're a shoe! You're a shoe! You're a shoe!\"",
+            "chinese": "〝你是鞋子…〞"
+        },
+        {
+            "num": 110,
+            "time": {
+                "start": 364.44,
+                "end": 367.61
+            },
+            "english": "Then today I stopped and said, \"What if I don't wanna be a shoe?",
+            "chinese": "然后今天，我停下来对自己说： 〝如果我不想成为鞋子呢？"
+        },
+        {
+            "num": 111,
+            "time": {
+                "start": 367.82,
+                "end": 370.99
+            },
+            "english": "What if I wanna be a purse? You know?",
+            "chinese": "如果我想成为一个包包？"
+        },
+        {
+            "num": 112,
+            "time": {
+                "start": 371.16,
+                "end": 372.95
+            },
+            "english": "Or a hat?\"",
+            "chinese": "或一顶帽子？〞"
+        },
+        {
+            "num": 113,
+            "time": {
+                "start": 373.87,
+                "end": 376.41
+            },
+            "english": "I don't want you to buy me a hat, I am a hat.",
+            "chinese": "不，我不是要你给我买帽子 我是说我是帽子"
+        },
+        {
+            "num": 114,
+            "time": {
+                "start": 376.58,
+                "end": 378.79
+            },
+            "english": "It's a metaphor, Daddy!",
+            "chinese": "这是个比喻，爸爸！"
+        },
+        {
+            "num": 115,
+            "time": {
+                "start": 380.54,
+                "end": 382.38
+            },
+            "english": "You can see where he'd have trouble.",
+            "chinese": "你看得出他哪里听不懂"
+        },
+        {
+            "num": 116,
+            "time": {
+                "start": 385.63,
+                "end": 387.51
+            },
+            "english": "Look, Daddy, it's my life.",
+            "chinese": "爸爸，这是我的生活"
+        },
+        {
+            "num": 117,
+            "time": {
+                "start": 388.84,
+                "end": 391.3
+            },
+            "english": "Well, maybe I'll just stay here with Monica.",
+            "chinese": "也许我可以和摩妮卡住在一起"
+        },
+        {
+            "num": 118,
+            "time": {
+                "start": 394.31,
+                "end": 396.81
+            },
+            "english": "I guess we've established she's staying with Monica.",
+            "chinese": "我猜我们已经确定 她要和摩妮卡住在一起了…"
+        },
+        {
+            "num": 119,
+            "time": {
+                "start": 398.89,
+                "end": 401.69
+            },
+            "english": "Well, maybe that's my decision.",
+            "chinese": "也许那是我的决定"
+        },
+        {
+            "num": 120,
+            "time": {
+                "start": 402.27,
+                "end": 404.52
+            },
+            "english": "Well, maybe I don't need your money.",
+            "chinese": "也许我不需要你的钱"
+        },
+        {
+            "num": 121,
+            "time": {
+                "start": 404.69,
+                "end": 406.94
+            },
+            "english": "Wait! Wait! I said maybe!",
+            "chinese": "等等！我说也许！"
+        },
+        {
+            "num": 122,
+            "time": {
+                "start": 413.90999999999997,
+                "end": 416.12
+            },
+            "english": "Okay. Just breathe, that's it.",
+            "chinese": "呼吸，呼吸 好，就这样"
+        },
+        {
+            "num": 123,
+            "time": {
+                "start": 416.33,
+                "end": 418.79
+            },
+            "english": "Just try to think of nice, calm things.",
+            "chinese": "试着想一些让你镇定的事…"
+        },
+        {
+            "num": 124,
+            "time": {
+                "start": 419.0,
+                "end": 422.87
+            },
+            "english": "Raindrops on roses And whiskers on kittens",
+            "chinese": "玫瑰上的雨滴，还有猫的胡须"
+        },
+        {
+            "num": 125,
+            "time": {
+                "start": 423.25,
+                "end": 427.21
+            },
+            "english": "Doorbells and sleigh bells And something with mittens",
+            "chinese": "门铃和雪橇铃，还有手套…"
+        },
+        {
+            "num": 126,
+            "time": {
+                "start": 427.96,
+                "end": 431.34
+            },
+            "english": "La la la something With string",
+            "chinese": "啦啦啦，还有一些条状物…"
+        },
+        {
+            "num": 127,
+            "time": {
+                "start": 431.51,
+                "end": 433.39
+            },
+            "english": "I'm all better now.",
+            "chinese": "我现在好多了"
+        },
+        {
+            "num": 128,
+            "time": {
+                "start": 435.18,
+                "end": 437.18
+            },
+            "english": "I helped.",
+            "chinese": "我帮上忙啦"
+        },
+        {
+            "num": 129,
+            "time": {
+                "start": 438.85,
+                "end": 441.18
+            },
+            "english": "MONICA: Look, this is probably for the best, you know?",
+            "chinese": "瞧，这也许对你来讲是最好的 知道吗？"
+        },
+        {
+            "num": 130,
+            "time": {
+                "start": 441.52,
+                "end": 444.06
+            },
+            "english": "Independence. Taking control of your life.",
+            "chinese": "独立了，把握自己的生活"
+        },
+        {
+            "num": 131,
+            "time": {
+                "start": 444.27,
+                "end": 448.61
+            },
+            "english": "And, hey, if you need anything, you can always come to Joey.",
+            "chinese": "还有，你还需要什么 你可以随时来找乔伊"
+        },
+        {
+            "num": 132,
+            "time": {
+                "start": 448.78,
+                "end": 452.2
+            },
+            "english": "Me and Chandler live right across the hall. And he's away a lot.",
+            "chinese": "我和钱德就住在对面 而且他经常不在"
+        },
+        {
+            "num": 133,
+            "time": {
+                "start": 454.07,
+                "end": 456.62
+            },
+            "english": "Joey, stop hitting on her. It's her wedding day.",
+            "chinese": "乔伊，不要再对她放电了 今天是她结婚的日子！"
+        },
+        {
+            "num": 134,
+            "time": {
+                "start": 456.83,
+                "end": 458.79
+            },
+            "english": "What? Like there's a rule or something?",
+            "chinese": "怎么啦，难道这还有什么规定吗？"
+        },
+        {
+            "num": 135,
+            "time": {
+                "start": 461.33,
+                "end": 464.88
+            },
+            "english": "Please don't do that again. It's a horrible sound.",
+            "chinese": "请不要再按了 那是很恐怖的声音"
+        },
+        {
+            "num": 136,
+            "time": {
+                "start": 465.04,
+                "end": 467.46
+            },
+            "english": "PAUL: Uh, it's Paul. - Buzz him in.",
+            "chinese": "- 我是保罗 - 让他进来！"
+        },
+        {
+            "num": 137,
+            "time": {
+                "start": 467.75,
+                "end": 470.05
+            },
+            "english": "- Who's Paul? - Paul, the wine guy, Paul?",
+            "chinese": "- 谁是保罗？ - 保罗，红酒达人，保罗？"
+        },
+        {
+            "num": 138,
+            "time": {
+                "start": 470.26,
+                "end": 471.3
+            },
+            "english": "Maybe.",
+            "chinese": "也许"
+        },
+        {
+            "num": 139,
+            "time": {
+                "start": 471.51,
+                "end": 474.8
+            },
+            "english": "Wait a minute. Your \"not a real date\" is with Paul, the wine guy?",
+            "chinese": "等等，你今晚的〝不是真正约会〞 是和红酒达人保罗？"
+        },
+        {
+            "num": 140,
+            "time": {
+                "start": 475.01,
+                "end": 476.8
+            },
+            "english": "- He finally asked you out? - Yes.",
+            "chinese": "- 他终于约你出去啦？ - 是的！"
+        },
+        {
+            "num": 141,
+            "time": {
+                "start": 476.97,
+                "end": 478.76
+            },
+            "english": "Ooh. This is a \"Dear Diary\" moment.",
+            "chinese": "真是个可以写入日记的时刻"
+        },
+        {
+            "num": 142,
+            "time": {
+                "start": 480.31,
+                "end": 481.81
+            },
+            "english": "Rach, wait, I can cancel.",
+            "chinese": "瑞秋，等等，我可以取消…"
+        },
+        {
+            "num": 143,
+            "time": {
+                "start": 482.06,
+                "end": 483.85
+            },
+            "english": "Please, no. Go, I'll be fine.",
+            "chinese": "不用 你去吧，我不会有事的！"
+        },
+        {
+            "num": 144,
+            "time": {
+                "start": 484.02,
+                "end": 487.73
+            },
+            "english": "Ross, are you okay? I mean, do you want me to stay?",
+            "chinese": "罗斯，你没事吧？ 你希望我留下来吗？"
+        },
+        {
+            "num": 145,
+            "time": {
+                "start": 488.61,
+                "end": 490.73
+            },
+            "english": "That'd be good.",
+            "chinese": "能留下就太好了…"
+        },
+        {
+            "num": 146,
+            "time": {
+                "start": 491.11,
+                "end": 494.86
+            },
+            "english": "- Really? - No, go on! It's Paul, the wine guy.",
+            "chinese": "- 真的？ - 不，去吧！那可是红酒达人保罗耶！"
+        },
+        {
+            "num": 147,
+            "time": {
+                "start": 498.7,
+                "end": 501.12
+            },
+            "english": "MONICA: Hi, come in. Paul, this is...",
+            "chinese": "进来，保罗，这是…"
+        },
+        {
+            "num": 148,
+            "time": {
+                "start": 502.0,
+                "end": 504.54
+            },
+            "english": "...everybody. Everybody, this is Paul.",
+            "chinese": "大家 各位，这是保罗"
+        },
+        {
+            "num": 149,
+            "time": {
+                "start": 505.0,
+                "end": 506.04
+            },
+            "english": "JOEY: Paul, the wine guy.",
+            "chinese": "保罗！红酒达人！"
+        },
+        {
+            "num": 150,
+            "time": {
+                "start": 506.25,
+                "end": 510.09
+            },
+            "english": "- Wine guy. - I didn't catch your name. Paul, was it?",
+            "chinese": "- 红酒达人！ - 我没听清楚你的名字，是保罗吗？"
+        },
+        {
+            "num": 151,
+            "time": {
+                "start": 510.51,
+                "end": 513.05
+            },
+            "english": "- Okay. Sit down. Two seconds. - Okay.",
+            "chinese": "- 请坐，两秒钟就好 - 好"
+        },
+        {
+            "num": 152,
+            "time": {
+                "start": 517.22,
+                "end": 520.31
+            },
+            "english": "Ooh, I just pulled out four eyelashes. That can't be good.",
+            "chinese": "我刚拔掉四根睫毛不是个好兆头"
+        },
+        {
+            "num": 153,
+            "time": {
+                "start": 522.85,
+                "end": 524.73
+            },
+            "english": "So, Rachel, what are you up to tonight?",
+            "chinese": "那么瑞秋，你今晚…打算做什么？"
+        },
+        {
+            "num": 154,
+            "time": {
+                "start": 525.27,
+                "end": 529.11
+            },
+            "english": "Well, I was supposed to be headed for Aruba on my honeymoon...",
+            "chinese": "我本来应该到阿鲁巴度蜜月"
+        },
+        {
+            "num": 155,
+            "time": {
+                "start": 529.27,
+                "end": 530.32
+            },
+            "english": "...so, nothing.",
+            "chinese": "所以，没事做！"
+        },
+        {
+            "num": 156,
+            "time": {
+                "start": 532.74,
+                "end": 534.95
+            },
+            "english": "Right. You're not even getting your honeymoon.",
+            "chinese": "对呀，你连蜜月都无法去"
+        },
+        {
+            "num": 157,
+            "time": {
+                "start": 535.24,
+                "end": 539.2
+            },
+            "english": "God. No, no. Although, Aruba. Heh. This time of year? Eh.",
+            "chinese": "不过，阿鲁巴，这个时候？"
+        },
+        {
+            "num": 158,
+            "time": {
+                "start": 539.37,
+                "end": 541.95
+            },
+            "english": "Talk about your...",
+            "chinese": "你可以谈论一下…"
+        },
+        {
+            "num": 159,
+            "time": {
+                "start": 542.12,
+                "end": 543.16
+            },
+            "english": "...big lizards.",
+            "chinese": "大蜥蜴"
+        },
+        {
+            "num": 160,
+            "time": {
+                "start": 547.96,
+                "end": 550.67
+            },
+            "english": "Anyway, if you don't feel like being alone tonight...",
+            "chinese": "总之 如果今晚你不想自己一个人的话"
+        },
+        {
+            "num": 161,
+            "time": {
+                "start": 550.88,
+                "end": 553.71
+            },
+            "english": "...Joey and Chandler are helping me with my furniture.",
+            "chinese": "乔伊和钱德要过来 帮我组装我的新家具"
+        },
+        {
+            "num": 162,
+            "time": {
+                "start": 553.88,
+                "end": 557.05
+            },
+            "english": "Yes, and we're very excited about it.",
+            "chinese": "对，而且我们为此感到兴奋"
+        },
+        {
+            "num": 163,
+            "time": {
+                "start": 557.22,
+                "end": 560.55
+            },
+            "english": "Actually, thanks, but I'm just gonna hang out here tonight.",
+            "chinese": "谢谢了，不过我想今晚 还是留在这里吧"
+        },
+        {
+            "num": 164,
+            "time": {
+                "start": 560.72,
+                "end": 562.76
+            },
+            "english": "- It's been a long day. - Oh, sure. Okay. Sure.",
+            "chinese": "- 今天真是漫长的一天 - 是呀，好吧"
+        },
+        {
+            "num": 165,
+            "time": {
+                "start": 562.93,
+                "end": 564.27
+            },
+            "english": "Hey, Pheebs, you wanna help?",
+            "chinese": "菲比，你要来帮忙吗？"
+        },
+        {
+            "num": 166,
+            "time": {
+                "start": 564.68,
+                "end": 566.64
+            },
+            "english": "Oh, I wish I could, but I don't want to.",
+            "chinese": "噢，我希望我能，但是我不想"
+        },
+        {
+            "num": 167,
+            "time": {
+                "start": 574.86,
+                "end": 579.28
+            },
+            "english": "I'm supposed to attach a bracket-y thing to the side things...",
+            "chinese": "我应该把支架固定在侧面"
+        },
+        {
+            "num": 168,
+            "time": {
+                "start": 579.45,
+                "end": 582.24
+            },
+            "english": "...using a bunch of these little worm guys.",
+            "chinese": "用螺纹蜗轮"
+        },
+        {
+            "num": 169,
+            "time": {
+                "start": 583.41,
+                "end": 588.16
+            },
+            "english": "I have no bracket-y thing, I see no worm guys whatsoever...",
+            "chinese": "我没有支架，没有看到螺纹蜗轮"
+        },
+        {
+            "num": 170,
+            "time": {
+                "start": 588.33,
+                "end": 591.42
+            },
+            "english": "...and I cannot feel my legs.",
+            "chinese": "而且我的腿麻了"
+        },
+        {
+            "num": 171,
+            "time": {
+                "start": 593.0,
+                "end": 594.05
+            },
+            "english": "What's this?",
+            "chinese": "这是什么？"
+        },
+        {
+            "num": 172,
+            "time": {
+                "start": 594.26,
+                "end": 597.26
+            },
+            "english": "I have no idea.",
+            "chinese": "我不知道"
+        },
+        {
+            "num": 173,
+            "time": {
+                "start": 599.14,
+                "end": 601.55
+            },
+            "english": "- Done with the bookcase. - All finished.",
+            "chinese": "- 搞定书架了！ - 完工了！"
+        },
+        {
+            "num": 174,
+            "time": {
+                "start": 605.14,
+                "end": 606.93
+            },
+            "english": "This was Carol's favorite beer.",
+            "chinese": "这是卡萝最喜欢的啤酒"
+        },
+        {
+            "num": 175,
+            "time": {
+                "start": 609.02,
+                "end": 611.69
+            },
+            "english": "She always drank it out of the can. I should have known.",
+            "chinese": "她总是直接从罐子喝，我该知道的"
+        },
+        {
+            "num": 176,
+            "time": {
+                "start": 611.86,
+                "end": 615.07
+            },
+            "english": "Hey. Ross, let me ask you a question.",
+            "chinese": "罗斯，我来问你一个问题"
+        },
+        {
+            "num": 177,
+            "time": {
+                "start": 615.23,
+                "end": 619.45
+            },
+            "english": "She got the furniture, the stereo, the good TV.",
+            "chinese": "她得到家具、音响、超赞的电视…"
+        },
+        {
+            "num": 178,
+            "time": {
+                "start": 619.61,
+                "end": 620.66
+            },
+            "english": "What did you get?",
+            "chinese": "那你得到了什么？"
+        },
+        {
+            "num": 179,
+            "time": {
+                "start": 620.99,
+                "end": 622.03
+            },
+            "english": "You guys.",
+            "chinese": "你们啊"
+        },
+        {
+            "num": 180,
+            "time": {
+                "start": 622.2,
+                "end": 624.28
+            },
+            "english": "- Oh, God. Oh, my God. - You got screwed.",
+            "chinese": "- 天呀 - 你被耍了"
+        },
+        {
+            "num": 181,
+            "time": {
+                "start": 624.49,
+                "end": 628.79
+            },
+            "english": "- Oh, my God. - I know, I know. I'm such an idiot.",
+            "chinese": "- 我的老天！ - 我知道，我真是个笨蛋"
+        },
+        {
+            "num": 182,
+            "time": {
+                "start": 629.33,
+                "end": 633.88
+            },
+            "english": "I should've caught on when she went to the dentist four and five times a week.",
+            "chinese": "当她一个礼拜见四、五次牙医 我就该知道了"
+        },
+        {
+            "num": 183,
+            "time": {
+                "start": 634.05,
+                "end": 636.25
+            },
+            "english": "I mean, how clean can teeth get?",
+            "chinese": "谁的牙齿需要这么干净？"
+        },
+        {
+            "num": 184,
+            "time": {
+                "start": 636.42,
+                "end": 638.84
+            },
+            "english": "My brother's going through that. He's such a mess.",
+            "chinese": "我哥哥正在克服这种事呢 他真是一团糟"
+        },
+        {
+            "num": 185,
+            "time": {
+                "start": 639.01,
+                "end": 640.68
+            },
+            "english": "How did you get through it?",
+            "chinese": "你是怎么克服的？"
+        },
+        {
+            "num": 186,
+            "time": {
+                "start": 640.89,
+                "end": 644.39
+            },
+            "english": "He might try accidentally breaking something valuable of hers.",
+            "chinese": "他可以试着砸烂她的一些贵重的东西"
+        },
+        {
+            "num": 187,
+            "time": {
+                "start": 644.56,
+                "end": 646.14
+            },
+            "english": "- Say her... - Leg?",
+            "chinese": "- 比如她的… - 腿？"
+        },
+        {
+            "num": 188,
+            "time": {
+                "start": 646.31,
+                "end": 648.22
+            },
+            "english": "Heh. That's one way of going through it, yeah.",
+            "chinese": "那样也可以！"
+        },
+        {
+            "num": 189,
+            "time": {
+                "start": 648.77,
+                "end": 650.31
+            },
+            "english": "Me, I went for the watch.",
+            "chinese": "我则是砸了她的手表"
+        },
+        {
+            "num": 190,
+            "time": {
+                "start": 650.77,
+                "end": 652.65
+            },
+            "english": "- You actually broke her watch? - Mm.",
+            "chinese": "你真的砸了她的手表？"
+        },
+        {
+            "num": 191,
+            "time": {
+                "start": 653.27,
+                "end": 656.36
+            },
+            "english": "Barry, I'm sorry. I am so sorry.",
+            "chinese": "巴瑞，对不起，对不起"
+        },
+        {
+            "num": 192,
+            "time": {
+                "start": 656.61,
+                "end": 661.53
+            },
+            "english": "You probably think it's about making love with your socks on, but it isn't.",
+            "chinese": "我知道你可能认为和那天我对你说 跟你穿袜子做爱有关，但不是的"
+        },
+        {
+            "num": 193,
+            "time": {
+                "start": 661.7,
+                "end": 664.53
+            },
+            "english": "It isn't, it's about me. And I...",
+            "chinese": "这和我有关，我只是…"
+        },
+        {
+            "num": 194,
+            "time": {
+                "start": 671.58,
+                "end": 674.63
+            },
+            "english": "Hi. Machine cut me off again. Anyway...",
+            "chinese": "嘿，机器又把电话挂断了 不管怎样…"
+        },
+        {
+            "num": 195,
+            "time": {
+                "start": 676.42,
+                "end": 680.51
+            },
+            "english": "You know what's scary? What if there's only one woman for everybody?",
+            "chinese": "知道什么最吓人的吗？ 如果每个人只有一个女人适合他呢？"
+        },
+        {
+            "num": 196,
+            "time": {
+                "start": 680.72,
+                "end": 684.05
+            },
+            "english": "I mean, what if you get one woman, and that's it?",
+            "chinese": "我是说 如果你得到一个女人，就这样"
+        },
+        {
+            "num": 197,
+            "time": {
+                "start": 684.22,
+                "end": 689.1
+            },
+            "english": "Unfortunately, in my case, there was only one woman for her.",
+            "chinese": "不幸的是，以我的例子来讲 是她…得到一个女人"
+        },
+        {
+            "num": 198,
+            "time": {
+                "start": 689.56,
+                "end": 692.81
+            },
+            "english": "What are you talking about? One woman.",
+            "chinese": "你在说什么？ 〝一个女人〞？"
+        },
+        {
+            "num": 199,
+            "time": {
+                "start": 693.4,
+                "end": 697.02
+            },
+            "english": "That's like saying there's only one flavor of ice cream for you.",
+            "chinese": "那就好像你只吃一种口味的冰淇淋"
+        },
+        {
+            "num": 200,
+            "time": {
+                "start": 697.19,
+                "end": 700.94
+            },
+            "english": "Let me tell you something, Ross. There's lots of flavors out there.",
+            "chinese": "让我告诉你，罗斯 还有很多种口味"
+        },
+        {
+            "num": 201,
+            "time": {
+                "start": 701.11,
+                "end": 705.57
+            },
+            "english": "There's rocky road and cookie dough and bing cherry vanilla.",
+            "chinese": "有碎糖口味、饼干口味 然后还有香草口味"
+        },
+        {
+            "num": 202,
+            "time": {
+                "start": 706.2,
+                "end": 710.7
+            },
+            "english": "You can get them with jimmies or nuts or whipped cream.",
+            "chinese": "还可以加糖条、果仁 或者鲜奶油一起吃！"
+        },
+        {
+            "num": 203,
+            "time": {
+                "start": 710.96,
+                "end": 713.62
+            },
+            "english": "This is the best thing that ever happened to you.",
+            "chinese": "这是你一生中最棒的时刻了！"
+        },
+        {
+            "num": 204,
+            "time": {
+                "start": 713.79,
+                "end": 716.67
+            },
+            "english": "You got married. You were like, what, 8?",
+            "chinese": "你难道是八岁结婚的？"
+        },
+        {
+            "num": 205,
+            "time": {
+                "start": 718.63,
+                "end": 722.63
+            },
+            "english": "Welcome back to the world. Grab a spoon.",
+            "chinese": "欢迎回到现实里！拿起汤匙！"
+        },
+        {
+            "num": 206,
+            "time": {
+                "start": 722.8,
+                "end": 725.34
+            },
+            "english": "I honestly don't know if I'm hungry or horny.",
+            "chinese": "我真不知道我是饿了 还是饥渴"
+        },
+        {
+            "num": 207,
+            "time": {
+                "start": 725.8,
+                "end": 727.18
+            },
+            "english": "Then stay out of my freezer.",
+            "chinese": "离我的冰箱远点！"
+        },
+        {
+            "num": 208,
+            "time": {
+                "start": 730.93,
+                "end": 734.35
+            },
+            "english": "Ever since she walked out on me, I...",
+            "chinese": "从她离开我之后，我…"
+        },
+        {
+            "num": 209,
+            "time": {
+                "start": 734.69,
+                "end": 736.65
+            },
+            "english": "What? What?",
+            "chinese": "怎么啦？"
+        },
+        {
+            "num": 210,
+            "time": {
+                "start": 736.81,
+                "end": 738.65
+            },
+            "english": "You wanna spell it out with noodles?",
+            "chinese": "你想边吃面条边讲出来？"
+        },
+        {
+            "num": 211,
+            "time": {
+                "start": 738.86,
+                "end": 742.44
+            },
+            "english": "No, it's more of a fifth date kind of revelation.",
+            "chinese": "不，这本该在和你 第五次约会时才能说出来的"
+        },
+        {
+            "num": 212,
+            "time": {
+                "start": 743.24,
+                "end": 746.28
+            },
+            "english": "Oh, so there's gonna be a fifth date?",
+            "chinese": "噢，所以会有第五次约会罗？"
+        },
+        {
+            "num": 213,
+            "time": {
+                "start": 747.83,
+                "end": 749.49
+            },
+            "english": "Isn't there?",
+            "chinese": "会有吗？"
+        },
+        {
+            "num": 214,
+            "time": {
+                "start": 749.7,
+                "end": 751.87
+            },
+            "english": "Yeah, yeah. I think there is.",
+            "chinese": "我觉得会有"
+        },
+        {
+            "num": 215,
+            "time": {
+                "start": 753.71,
+                "end": 755.42
+            },
+            "english": "What were you gonna say?",
+            "chinese": "你要说什么？"
+        },
+        {
+            "num": 216,
+            "time": {
+                "start": 757.04,
+                "end": 759.17
+            },
+            "english": "Well... Er, uh...",
+            "chinese": "好吧"
+        },
+        {
+            "num": 217,
+            "time": {
+                "start": 760.34,
+                "end": 762.55
+            },
+            "english": "Ever since she left me, um...",
+            "chinese": "自从她离开我之后…"
+        },
+        {
+            "num": 218,
+            "time": {
+                "start": 763.67,
+                "end": 766.97
+            },
+            "english": "...I haven't been able to perform...",
+            "chinese": "我就一直…"
+        },
+        {
+            "num": 219,
+            "time": {
+                "start": 767.22,
+                "end": 768.43
+            },
+            "english": "...sexually.",
+            "chinese": "无法行房"
+        },
+        {
+            "num": 220,
+            "time": {
+                "start": 771.31,
+                "end": 772.81
+            },
+            "english": "Oh, God! Oh, God! I am so...",
+            "chinese": "天啊，对不起"
+        },
+        {
+            "num": 221,
+            "time": {
+                "start": 773.02,
+                "end": 774.23
+            },
+            "english": "- I'm so sorry. - It's okay.",
+            "chinese": "- 对不起… - 没关系"
+        },
+        {
+            "num": 222,
+            "time": {
+                "start": 774.44,
+                "end": 777.85
+            },
+            "english": "Being spit on is probably not what you need right now.",
+            "chinese": "被人吐水应该不是你现在需要的"
+        },
+        {
+            "num": 223,
+            "time": {
+                "start": 778.02,
+                "end": 779.73
+            },
+            "english": "Um...",
+            "chinese": "唔…"
+        },
+        {
+            "num": 224,
+            "time": {
+                "start": 780.11,
+                "end": 781.19
+            },
+            "english": "How long?",
+            "chinese": "多久了？"
+        },
+        {
+            "num": 225,
+            "time": {
+                "start": 781.73,
+                "end": 782.82
+            },
+            "english": "Two years.",
+            "chinese": "两年"
+        },
+        {
+            "num": 226,
+            "time": {
+                "start": 783.57,
+                "end": 785.28
+            },
+            "english": "Wow!",
+            "chinese": "哇！"
+        },
+        {
+            "num": 227,
+            "time": {
+                "start": 785.45,
+                "end": 788.41
+            },
+            "english": "I'm glad you smashed her watch.",
+            "chinese": "我真高兴你砸了她的手表！"
+        },
+        {
+            "num": 228,
+            "time": {
+                "start": 790.37,
+                "end": 793.79
+            },
+            "english": "So you still think you might want that fifth date?",
+            "chinese": "那你还希望有第五次约会吗？"
+        },
+        {
+            "num": 229,
+            "time": {
+                "start": 796.79,
+                "end": 798.33
+            },
+            "english": "Yeah.",
+            "chinese": "是的"
+        },
+        {
+            "num": 230,
+            "time": {
+                "start": 798.5,
+                "end": 800.34
+            },
+            "english": "Yeah, I do.",
+            "chinese": "是的，我希望"
+        },
+        {
+            "num": 231,
+            "time": {
+                "start": 801.55,
+                "end": 804.88
+            },
+            "english": "I, Joanie, take you, Charles, as my lawful husband.",
+            "chinese": "我乔安妮接受查理斯为我的合法丈夫"
+        },
+        {
+            "num": 232,
+            "time": {
+                "start": 805.22,
+                "end": 808.47
+            },
+            "english": "MINISTER: Do you take Joanie...? - Oh! See.",
+            "chinese": "- 你是否接受乔安妮… - 看吧"
+        },
+        {
+            "num": 233,
+            "time": {
+                "start": 808.64,
+                "end": 813.85
+            },
+            "english": "But Joanie loved Chachi. That's the difference.",
+            "chinese": "可是乔安妮爱佳奇！就是这里不同！"
+        },
+        {
+            "num": 234,
+            "time": {
+                "start": 815.39,
+                "end": 816.77
+            },
+            "english": "\"Grab a spoon.\"",
+            "chinese": "〝拿起汤匙〞"
+        },
+        {
+            "num": 235,
+            "time": {
+                "start": 817.1,
+                "end": 819.6
+            },
+            "english": "Do you know long it's been since I grabbed a spoon?",
+            "chinese": "你知道我多久没拿汤匙了吗？"
+        },
+        {
+            "num": 236,
+            "time": {
+                "start": 820.11,
+                "end": 822.94
+            },
+            "english": "Do the words, \"Billy, don't be a hero,\" mean anything to you?",
+            "chinese": "〝比利，别逞英雄〞 这句话对你有没有意义？"
+        },
+        {
+            "num": 237,
+            "time": {
+                "start": 825.19,
+                "end": 829.7
+            },
+            "english": "You know, here's the thing. Even if I could get it together enough...",
+            "chinese": "是这样的，就算我想…"
+        },
+        {
+            "num": 238,
+            "time": {
+                "start": 829.87,
+                "end": 832.41
+            },
+            "english": "...to ask a woman out...",
+            "chinese": "约一个女人出来"
+        },
+        {
+            "num": 239,
+            "time": {
+                "start": 832.87,
+                "end": 835.29
+            },
+            "english": "...who am I gonna ask?",
+            "chinese": "我该约谁？"
+        },
+        {
+            "num": 240,
+            "time": {
+                "start": 856.6,
+                "end": 857.98
+            },
+            "english": "Isn't this amazing?",
+            "chinese": "是不是很不可思议？"
+        },
+        {
+            "num": 241,
+            "time": {
+                "start": 858.14,
+                "end": 860.48
+            },
+            "english": "I mean, I have never made coffee before in my life.",
+            "chinese": "我以前从来没泡过咖啡"
+        },
+        {
+            "num": 242,
+            "time": {
+                "start": 860.65,
+                "end": 863.15
+            },
+            "english": "- That is amazing. - Congratulations.",
+            "chinese": "- 是很不可思议 - 恭喜你"
+        },
+        {
+            "num": 243,
+            "time": {
+                "start": 863.36,
+                "end": 868.07
+            },
+            "english": "While you're on a roll, if you feel like you gotta make a Western omelet or something...",
+            "chinese": "你现在刚好有心情 有没有想做个蛋饼之类的东西…"
+        },
+        {
+            "num": 244,
+            "time": {
+                "start": 870.99,
+                "end": 874.45
+            },
+            "english": "Although, actually I'm really not that hungry this morning.",
+            "chinese": "不过我还不太饿…"
+        },
+        {
+            "num": 245,
+            "time": {
+                "start": 875.37,
+                "end": 876.7
+            },
+            "english": "- Good morning. MONICA: Good morning.",
+            "chinese": "- 早安 - 早安"
+        },
+        {
+            "num": 246,
+            "time": {
+                "start": 876.87,
+                "end": 878.5
+            },
+            "english": "- Morning.  - JOEY: Morning.",
+            "chinese": "- 早安  - 早安"
+        },
+        {
+            "num": 247,
+            "time": {
+                "start": 879.42,
+                "end": 881.58
+            },
+            "english": "- Morning. JOEY: Morning, Paul.",
+            "chinese": "- 早安 - 早安，保罗"
+        },
+        {
+            "num": 248,
+            "time": {
+                "start": 881.75,
+                "end": 884.96
+            },
+            "english": "- Hello, Paul. - Hi. Paul, is it?",
+            "chinese": "- 你好，保罗 - 嘿，是保罗，对吗？"
+        },
+        {
+            "num": 249,
+            "time": {
+                "start": 889.09,
+                "end": 891.84
+            },
+            "english": "MONICA: I had a really great time last night.",
+            "chinese": "我昨晚很开心"
+        },
+        {
+            "num": 250,
+            "time": {
+                "start": 892.01,
+                "end": 893.89
+            },
+            "english": "PAUL: Thank you. Thank you so much.",
+            "chinese": "谢谢你!太感谢你了!"
+        },
+        {
+            "num": 251,
+            "time": {
+                "start": 894.6,
+                "end": 897.47
+            },
+            "english": "- We'll talk later, okay? - Yeah.",
+            "chinese": "- 再聊 - 好的"
+        },
+        {
+            "num": 252,
+            "time": {
+                "start": 902.15,
+                "end": 903.98
+            },
+            "english": "Thank you.",
+            "chinese": "谢谢"
+        },
+        {
+            "num": 253,
+            "time": {
+                "start": 909.82,
+                "end": 912.61
+            },
+            "english": "That wasn't a real date.",
+            "chinese": "那不是真正的约会！"
+        },
+        {
+            "num": 254,
+            "time": {
+                "start": 913.32,
+                "end": 916.16
+            },
+            "english": "What the hell do you do on a real date?",
+            "chinese": "那你真正的约会都在干什么？"
+        },
+        {
+            "num": 255,
+            "time": {
+                "start": 917.04,
+                "end": 920.5
+            },
+            "english": "- Shut up and put my table back. JOEY: Okay.",
+            "chinese": "- 闭嘴，把我的桌子搬回去 - 好的！"
+        },
+        {
+            "num": 256,
+            "time": {
+                "start": 920.66,
+                "end": 922.54
+            },
+            "english": "All right, kids, I gotta get to work.",
+            "chinese": "好啦，孩子们，我要去工作啦"
+        },
+        {
+            "num": 257,
+            "time": {
+                "start": 922.75,
+                "end": 928.25
+            },
+            "english": "If I don't input those numbers, it doesn't make much of a difference.",
+            "chinese": "不过如果我不把那些数字输入 也不会有什么差别"
+        },
+        {
+            "num": 258,
+            "time": {
+                "start": 931.3,
+                "end": 933.43
+            },
+            "english": "So, like, you guys all have jobs?",
+            "chinese": "你们都有工作吗？"
+        },
+        {
+            "num": 259,
+            "time": {
+                "start": 934.22,
+                "end": 935.89
+            },
+            "english": "Yeah, we all have jobs.",
+            "chinese": "对，我们都有"
+        },
+        {
+            "num": 260,
+            "time": {
+                "start": 936.1,
+                "end": 938.72
+            },
+            "english": "See, that's how we buy stuff.",
+            "chinese": "这样我们才有钱买东西"
+        },
+        {
+            "num": 261,
+            "time": {
+                "start": 940.35,
+                "end": 941.64
+            },
+            "english": "Yeah, I'm an actor.",
+            "chinese": "对，我是演员"
+        },
+        {
+            "num": 262,
+            "time": {
+                "start": 941.85,
+                "end": 944.06
+            },
+            "english": "Wow. Would I have seen you in anything?",
+            "chinese": "哇，我有见过你的作品吗？"
+        },
+        {
+            "num": 263,
+            "time": {
+                "start": 944.27,
+                "end": 946.61
+            },
+            "english": "Oh, I doubt it. Mostly regional work.",
+            "chinese": "哦，应该没有，大部分是地方性节目"
+        },
+        {
+            "num": 264,
+            "time": {
+                "start": 946.82,
+                "end": 950.4
+            },
+            "english": "Unless you happened to catch the Wee One's production of Pinocchio.",
+            "chinese": "等等，除非你看过 翻拍的《木偶奇遇记》"
+        },
+        {
+            "num": 265,
+            "time": {
+                "start": 950.65,
+                "end": 953.2
+            },
+            "english": "\"Look, Geppeto. I'm a real live boy.\"",
+            "chinese": "〝瞧，老木匠，我是个真正的小男孩〞"
+        },
+        {
+            "num": 266,
+            "time": {
+                "start": 956.03,
+                "end": 957.74
+            },
+            "english": "I will not take this abuse.",
+            "chinese": "别这样羞辱我"
+        },
+        {
+            "num": 267,
+            "time": {
+                "start": 957.99,
+                "end": 959.91
+            },
+            "english": "You're right. I'm sorry.",
+            "chinese": "没错，对不起"
+        },
+        {
+            "num": 268,
+            "time": {
+                "start": 960.33,
+                "end": 963.04
+            },
+            "english": "Once I was a wooden boy A little wooden boy",
+            "chinese": "我曾经是个小木偶…"
+        },
+        {
+            "num": 269,
+            "time": {
+                "start": 967.13,
+                "end": 969.46
+            },
+            "english": "MONICA: So how are you doing today? Did you sleep okay?",
+            "chinese": "你今天怎么样？睡得好吗？"
+        },
+        {
+            "num": 270,
+            "time": {
+                "start": 969.67,
+                "end": 973.01
+            },
+            "english": "Did you talk to Barry? I can't stop smiling.",
+            "chinese": "和巴瑞谈过吗?我无法停止微笑"
+        },
+        {
+            "num": 271,
+            "time": {
+                "start": 973.8,
+                "end": 977.68
+            },
+            "english": "I can see that. You look like you slept with a hanger in your mouth.",
+            "chinese": "看得出来，就好像你睡觉时 有个衣架在你嘴里"
+        },
+        {
+            "num": 272,
+            "time": {
+                "start": 982.94,
+                "end": 986.4
+            },
+            "english": "I know. He's just so...",
+            "chinese": "我知道，他只是太…"
+        },
+        {
+            "num": 273,
+            "time": {
+                "start": 986.56,
+                "end": 988.11
+            },
+            "english": "Remember you and Tony De Marco?",
+            "chinese": "你还记得你和托尼多马哥吗？"
+        },
+        {
+            "num": 274,
+            "time": {
+                "start": 988.32,
+                "end": 992.32
+            },
+            "english": "- Oh, yeah. - Well, it's like that. With feelings.",
+            "chinese": "- 是的，记得 - 就好像那样，但有感觉"
+        },
+        {
+            "num": 275,
+            "time": {
+                "start": 993.2,
+                "end": 994.86
+            },
+            "english": "Oh, wow, are you in trouble!",
+            "chinese": "哇，你有麻烦了"
+        },
+        {
+            "num": 276,
+            "time": {
+                "start": 995.53,
+                "end": 999.33
+            },
+            "english": "Okay, okay. I am just going to get up, go to work...",
+            "chinese": "好，我要醒过来，去工作"
+        },
+        {
+            "num": 277,
+            "time": {
+                "start": 999.49,
+                "end": 1002.2
+            },
+            "english": "...and not think about him all day.",
+            "chinese": "而且不要整天想着他"
+        },
+        {
+            "num": 278,
+            "time": {
+                "start": 1002.37,
+                "end": 1005.33
+            },
+            "english": "Or else I'm just gonna get up and go to work.",
+            "chinese": "或者只是站起来去工作"
+        },
+        {
+            "num": 279,
+            "time": {
+                "start": 1005.5,
+                "end": 1007.13
+            },
+            "english": "- Oh, wish me luck! - What for?",
+            "chinese": "- 喔，祝我好运！ - 为什么？"
+        },
+        {
+            "num": 280,
+            "time": {
+                "start": 1007.33,
+                "end": 1010.63
+            },
+            "english": "I'm gonna go get one of those job things.",
+            "chinese": "我要去找工作之类的事"
+        },
+        {
+            "num": 281,
+            "time": {
+                "start": 1018.6,
+                "end": 1021.22
+            },
+            "english": "- Hey, Monica. - Hey, Franny. Welcome back.",
+            "chinese": "嘿，摩妮卡！ 嘿，弗兰妮，欢迎回来！"
+        },
+        {
+            "num": 282,
+            "time": {
+                "start": 1021.39,
+                "end": 1022.89
+            },
+            "english": "How was Florida?",
+            "chinese": "佛罗里达怎么样？"
+        },
+        {
+            "num": 283,
+            "time": {
+                "start": 1023.06,
+                "end": 1024.39
+            },
+            "english": "You had sex, didn't you?",
+            "chinese": "你跟人上床了，对吧？"
+        },
+        {
+            "num": 284,
+            "time": {
+                "start": 1026.27,
+                "end": 1027.31
+            },
+            "english": "How do you do that?",
+            "chinese": "你怎么知道的"
+        },
+        {
+            "num": 285,
+            "time": {
+                "start": 1028.44,
+                "end": 1032.23
+            },
+            "english": "- So, who? - You know Paul?",
+            "chinese": "- 那么，是和谁？ - 你认识保罗吗？"
+        },
+        {
+            "num": 286,
+            "time": {
+                "start": 1032.78,
+                "end": 1034.36
+            },
+            "english": "Paul, the wine guy?",
+            "chinese": "保罗，红酒达人？"
+        },
+        {
+            "num": 287,
+            "time": {
+                "start": 1034.53,
+                "end": 1036.11
+            },
+            "english": "Oh, yeah, I know Paul.",
+            "chinese": "是的，我认识保罗"
+        },
+        {
+            "num": 288,
+            "time": {
+                "start": 1038.66,
+                "end": 1041.16
+            },
+            "english": "You mean, you know Paul like I know Paul?",
+            "chinese": "你认识他就好像我认识他一样？"
+        },
+        {
+            "num": 289,
+            "time": {
+                "start": 1041.37,
+                "end": 1043.66
+            },
+            "english": "Are you kidding? I take credit for Paul.",
+            "chinese": "你开玩笑吧？保罗还欠我人情呢"
+        },
+        {
+            "num": 290,
+            "time": {
+                "start": 1043.83,
+                "end": 1047.96
+            },
+            "english": "Before me, there was no snap in his turtle for two years.",
+            "chinese": "在我之前，他两年都无法行房"
+        },
+        {
+            "num": 291,
+            "time": {
+                "start": 1051.21,
+                "end": 1053.76
+            },
+            "english": "Of course it was a line.",
+            "chinese": "那当然是谎言！"
+        },
+        {
+            "num": 292,
+            "time": {
+                "start": 1054.17,
+                "end": 1056.84
+            },
+            "english": "Why? Why would anybody do something like that?",
+            "chinese": "为什么？为什么有人会做这样的事情？"
+        },
+        {
+            "num": 293,
+            "time": {
+                "start": 1057.05,
+                "end": 1060.3
+            },
+            "english": "We're looking for an answer more sophisticated than:",
+            "chinese": "我想更精确的答案是"
+        },
+        {
+            "num": 294,
+            "time": {
+                "start": 1060.47,
+                "end": 1062.39
+            },
+            "english": "\"To get you into bed.\"",
+            "chinese": "〝为了和你上床〞"
+        },
+        {
+            "num": 295,
+            "time": {
+                "start": 1063.35,
+                "end": 1065.02
+            },
+            "english": "Is it me?",
+            "chinese": "是因为我吗？"
+        },
+        {
+            "num": 296,
+            "time": {
+                "start": 1065.18,
+                "end": 1068.73
+            },
+            "english": "Is it like I have some sort of beacon that only dogs...",
+            "chinese": "是因为我会散发某种信号吗？"
+        },
+        {
+            "num": 297,
+            "time": {
+                "start": 1068.9,
+                "end": 1071.52
+            },
+            "english": "...and men with severe emotional problems can hear?",
+            "chinese": "只有狗和有感情问题的男人 才会成应到？"
+        },
+        {
+            "num": 298,
+            "time": {
+                "start": 1071.73,
+                "end": 1073.65
+            },
+            "english": "All right, come here. Give me your feet.",
+            "chinese": "好啦，过来这里，把你的脚给我"
+        },
+        {
+            "num": 299,
+            "time": {
+                "start": 1081.16,
+                "end": 1082.99
+            },
+            "english": "I just thought he was nice, you know?",
+            "chinese": "我只是以为他是个好人"
+        },
+        {
+            "num": 300,
+            "time": {
+                "start": 1085.87,
+                "end": 1088.33
+            },
+            "english": "I can't believe you didn't know it was a line.",
+            "chinese": "我真不敢相信 你不知道那是谎言！"
+        },
+        {
+            "num": 301,
+            "time": {
+                "start": 1093.21,
+                "end": 1094.25
+            },
+            "english": "Guess what.",
+            "chinese": "猜猜怎么样？"
+        },
+        {
+            "num": 302,
+            "time": {
+                "start": 1094.42,
+                "end": 1096.21
+            },
+            "english": "- You got a job? - Are you kidding?",
+            "chinese": "- 你找到工作啦？ - 开玩笑吗？"
+        },
+        {
+            "num": 303,
+            "time": {
+                "start": 1096.38,
+                "end": 1098.05
+            },
+            "english": "I'm trained for nothing.",
+            "chinese": "我一点经验都没有！"
+        },
+        {
+            "num": 304,
+            "time": {
+                "start": 1099.89,
+                "end": 1101.93
+            },
+            "english": "I was laughed out of 12 interviews today.",
+            "chinese": "我今天被十二个面试员嘲笑"
+        },
+        {
+            "num": 305,
+            "time": {
+                "start": 1102.1,
+                "end": 1103.64
+            },
+            "english": "Yet you're surprisingly upbeat.",
+            "chinese": "而且你还这么高兴"
+        },
+        {
+            "num": 306,
+            "time": {
+                "start": 1103.85,
+                "end": 1107.35
+            },
+            "english": "Well, you would be too if you found Joan and David boots on sale...",
+            "chinese": "你也会高兴的 如果你发现名牌皮靴特价…"
+        },
+        {
+            "num": 307,
+            "time": {
+                "start": 1107.52,
+                "end": 1109.27
+            },
+            "english": "...50 percent off.",
+            "chinese": "打五折！"
+        },
+        {
+            "num": 308,
+            "time": {
+                "start": 1109.48,
+                "end": 1111.27
+            },
+            "english": "Oh, how well you know me.",
+            "chinese": "是呀，你真了解我…"
+        },
+        {
+            "num": 309,
+            "time": {
+                "start": 1112.94,
+                "end": 1115.36
+            },
+            "english": "They're my new \"I don't need a job or my parents.",
+            "chinese": "这双是 〝我不需要工作，我不需要父母"
+        },
+        {
+            "num": 310,
+            "time": {
+                "start": 1115.61,
+                "end": 1117.78
+            },
+            "english": "I've got great boots\" boots.",
+            "chinese": "我买了新皮靴〞的皮靴！"
+        },
+        {
+            "num": 311,
+            "time": {
+                "start": 1119.15,
+                "end": 1121.36
+            },
+            "english": "- How'd you pay for them? - Uh, credit card.",
+            "chinese": "- 你用什么付帐的？ - 信用卡"
+        },
+        {
+            "num": 312,
+            "time": {
+                "start": 1121.91,
+                "end": 1123.57
+            },
+            "english": "And who pays for that?",
+            "chinese": "那谁付帐单呢？"
+        },
+        {
+            "num": 313,
+            "time": {
+                "start": 1124.24,
+                "end": 1126.33
+            },
+            "english": "Um, my father.",
+            "chinese": "我爸爸"
+        },
+        {
+            "num": 314,
+            "time": {
+                "start": 1128.91,
+                "end": 1131.08
+            },
+            "english": "You can't live off your parents your whole life.",
+            "chinese": "你不能靠你爸爸过一辈子"
+        },
+        {
+            "num": 315,
+            "time": {
+                "start": 1131.29,
+                "end": 1134.96
+            },
+            "english": "I know that. That's why I was getting married.",
+            "chinese": "我知道，这就是为什么我要结婚"
+        },
+        {
+            "num": 316,
+            "time": {
+                "start": 1135.34,
+                "end": 1138.34
+            },
+            "english": "Give her a break. It's hard being on your own for the first time.",
+            "chinese": "别逼她，第一次独立生活是很困难的"
+        },
+        {
+            "num": 317,
+            "time": {
+                "start": 1138.51,
+                "end": 1140.01
+            },
+            "english": "- Thank you. - You're welcome.",
+            "chinese": "- 谢谢你 - 别客气"
+        },
+        {
+            "num": 318,
+            "time": {
+                "start": 1140.18,
+                "end": 1142.89
+            },
+            "english": "I remember when I first came to this city, I was 14.",
+            "chinese": "记得我第一次来这个城市 我才十四岁"
+        },
+        {
+            "num": 319,
+            "time": {
+                "start": 1143.05,
+                "end": 1145.93
+            },
+            "english": "My mom had killed herself and my stepdad was back in prison.",
+            "chinese": "我妈妈刚自杀 我的继父又进了监狱"
+        },
+        {
+            "num": 320,
+            "time": {
+                "start": 1146.1,
+                "end": 1148.14
+            },
+            "english": "And I got here, and I didn't know anybody.",
+            "chinese": "然后在这里我不认识任何人"
+        },
+        {
+            "num": 321,
+            "time": {
+                "start": 1148.31,
+                "end": 1151.69
+            },
+            "english": "I ended up living with this albino guy who was cleaning windshields...",
+            "chinese": "然后我和一个在港务局 给人擦车窗的…"
+        },
+        {
+            "num": 322,
+            "time": {
+                "start": 1151.85,
+                "end": 1155.65
+            },
+            "english": "...outside Port Authority. And then he killed himself.",
+            "chinese": "白化病人住在一起 最后他也自杀了"
+        },
+        {
+            "num": 323,
+            "time": {
+                "start": 1156.4,
+                "end": 1160.24
+            },
+            "english": "And then I found aromatherapy. So believe me, I know exactly how you feel.",
+            "chinese": "然后我找到按摩这份工作 所以相信我，我完全了解你的感受"
+        },
+        {
+            "num": 324,
+            "time": {
+                "start": 1164.37,
+                "end": 1167.12
+            },
+            "english": "The word you're looking for is:",
+            "chinese": "你想说的话是："
+        },
+        {
+            "num": 325,
+            "time": {
+                "start": 1167.7,
+                "end": 1168.95
+            },
+            "english": "\"Anyway...\"",
+            "chinese": "〝总之…〞"
+        },
+        {
+            "num": 326,
+            "time": {
+                "start": 1173.13,
+                "end": 1174.25
+            },
+            "english": "All right. You ready?",
+            "chinese": "好了，准备好了吗？"
+        },
+        {
+            "num": 327,
+            "time": {
+                "start": 1174.42,
+                "end": 1176.13
+            },
+            "english": "- I don't think so. ROSS: Oh, come on.",
+            "chinese": "- 还没有 - 来吧"
+        },
+        {
+            "num": 328,
+            "time": {
+                "start": 1176.46,
+                "end": 1177.88
+            },
+            "english": "Cut. Cut.",
+            "chinese": "剪掉，剪掉"
+        },
+        {
+            "num": 329,
+            "time": {
+                "start": 1178.09,
+                "end": 1181.05
+            },
+            "english": "ALL: Cut, cut, cut.",
+            "chinese": "剪掉，剪掉，剪掉"
+        },
+        {
+            "num": 330,
+            "time": {
+                "start": 1182.68,
+                "end": 1185.6
+            },
+            "english": "ROSS: Hey. MONICA: All right.",
+            "chinese": "- 嘿 - 好耶"
+        },
+        {
+            "num": 331,
+            "time": {
+                "start": 1185.85,
+                "end": 1187.56
+            },
+            "english": "Welcome to the real world.",
+            "chinese": "欢迎来到真实世界！"
+        },
+        {
+            "num": 332,
+            "time": {
+                "start": 1187.76,
+                "end": 1190.52
+            },
+            "english": "It sucks. You're gonna love it.",
+            "chinese": "它很糟糕，但是你会喜欢的！"
+        },
+        {
+            "num": 333,
+            "time": {
+                "start": 1197.44,
+                "end": 1200.78
+            },
+            "english": "Well, that's it. You gonna crash on the couch?",
+            "chinese": "好啦，够啦 你要在沙发上睡？"
+        },
+        {
+            "num": 334,
+            "time": {
+                "start": 1200.99,
+                "end": 1204.32
+            },
+            "english": "- No. No, I gotta go home sometime. - Are you gonna be okay?",
+            "chinese": "- 不，我总要回家啊 - 你还好吗？"
+        },
+        {
+            "num": 335,
+            "time": {
+                "start": 1204.49,
+                "end": 1205.99
+            },
+            "english": "Yeah.",
+            "chinese": "是的"
+        },
+        {
+            "num": 336,
+            "time": {
+                "start": 1207.03,
+                "end": 1208.91
+            },
+            "english": "Look what I just found on the floor.",
+            "chinese": "看我刚才在地板上发现什么"
+        },
+        {
+            "num": 337,
+            "time": {
+                "start": 1211.21,
+                "end": 1212.46
+            },
+            "english": "What?",
+            "chinese": "什么？"
+        },
+        {
+            "num": 338,
+            "time": {
+                "start": 1212.92,
+                "end": 1214.42
+            },
+            "english": "That's Paul's watch.",
+            "chinese": "那是保罗的手表"
+        },
+        {
+            "num": 339,
+            "time": {
+                "start": 1214.58,
+                "end": 1216.67
+            },
+            "english": "You can just put it back where you found it.",
+            "chinese": "你就把它放回原处吧"
+        },
+        {
+            "num": 340,
+            "time": {
+                "start": 1218.3,
+                "end": 1221.76
+            },
+            "english": "Oh, boy. All right. Good night, everybody.",
+            "chinese": "好吧，晚安，各位"
+        },
+        {
+            "num": 341,
+            "time": {
+                "start": 1221.92,
+                "end": 1222.97
+            },
+            "english": "ROSS & RACHEL: Good night.",
+            "chinese": "晚安"
+        },
+        {
+            "num": 342,
+            "time": {
+                "start": 1231.48,
+                "end": 1233.14
+            },
+            "english": "- Hmm.  - Hmm.",
+            "chinese": "- 唔  - 唔"
+        },
+        {
+            "num": 343,
+            "time": {
+                "start": 1234.27,
+                "end": 1235.52
+            },
+            "english": "- Oh, sorry. - No. Oh, no. Go.",
+            "chinese": "- 喔，抱歉 - 不，你来"
+        },
+        {
+            "num": 344,
+            "time": {
+                "start": 1235.69,
+                "end": 1237.65
+            },
+            "english": "- No, have it, really. - Split it?",
+            "chinese": "- 不，你吃吧 - 平分？"
+        },
+        {
+            "num": 345,
+            "time": {
+                "start": 1237.81,
+                "end": 1239.82
+            },
+            "english": "- Okay. - Okay.",
+            "chinese": "- 好吧 - 好吧"
+        },
+        {
+            "num": 346,
+            "time": {
+                "start": 1241.74,
+                "end": 1242.78
+            },
+            "english": "Thanks.",
+            "chinese": "谢谢"
+        },
+        {
+            "num": 347,
+            "time": {
+                "start": 1243.49,
+                "end": 1247.07
+            },
+            "english": "You probably didn't know this, but back in high school I had...",
+            "chinese": "你可能不知道，在高中…"
+        },
+        {
+            "num": 348,
+            "time": {
+                "start": 1247.24,
+                "end": 1249.08
+            },
+            "english": "...a major crush on you.",
+            "chinese": "我曾暗恋过你"
+        },
+        {
+            "num": 349,
+            "time": {
+                "start": 1250.54,
+                "end": 1251.7
+            },
+            "english": "I knew.",
+            "chinese": "我知道"
+        },
+        {
+            "num": 350,
+            "time": {
+                "start": 1252.08,
+                "end": 1254.33
+            },
+            "english": "You did? Oh.",
+            "chinese": "你知道？"
+        },
+        {
+            "num": 351,
+            "time": {
+                "start": 1255.12,
+                "end": 1258.13
+            },
+            "english": "I figured you thought I was Monica's geeky older brother.",
+            "chinese": "我还以为你一直认为 我是摩妮卡的书呆子哥哥呢"
+        },
+        {
+            "num": 352,
+            "time": {
+                "start": 1258.88,
+                "end": 1260.88
+            },
+            "english": "- I did. - Oh.",
+            "chinese": "我是这么认为的"
+        },
+        {
+            "num": 353,
+            "time": {
+                "start": 1265.51,
+                "end": 1267.34
+            },
+            "english": "Listen, do you think...",
+            "chinese": "听着，你是不是认为…"
+        },
+        {
+            "num": 354,
+            "time": {
+                "start": 1267.51,
+                "end": 1271.01
+            },
+            "english": "And try not to let my vulnerability become any kind of a factor here.",
+            "chinese": "你不要太在意我的脆弱 这已经成为习惯"
+        },
+        {
+            "num": 355,
+            "time": {
+                "start": 1273.1,
+                "end": 1276.98
+            },
+            "english": "Do you think it would be okay if I ask you out sometime, maybe?",
+            "chinese": "但是你认为我可以约你出去吗？"
+        },
+        {
+            "num": 356,
+            "time": {
+                "start": 1278.23,
+                "end": 1280.06
+            },
+            "english": "Yeah.",
+            "chinese": "可以啊"
+        },
+        {
+            "num": 357,
+            "time": {
+                "start": 1280.52,
+                "end": 1281.82
+            },
+            "english": "Maybe.",
+            "chinese": "也许"
+        },
+        {
+            "num": 358,
+            "time": {
+                "start": 1282.82,
+                "end": 1284.65
+            },
+            "english": "Okay.",
+            "chinese": "好"
+        },
+        {
+            "num": 359,
+            "time": {
+                "start": 1289.41,
+                "end": 1291.87
+            },
+            "english": "Okay, maybe I will.",
+            "chinese": "好吧，我可能会约你…"
+        },
+        {
+            "num": 360,
+            "time": {
+                "start": 1295.83,
+                "end": 1297.96
+            },
+            "english": "- Good night. - Good night.",
+            "chinese": "- 晚安 - 晚安"
+        },
+        {
+            "num": 361,
+            "time": {
+                "start": 1311.51,
+                "end": 1313.22
+            },
+            "english": "See you.",
+            "chinese": "再见"
+        },
+        {
+            "num": 362,
+            "time": {
+                "start": 1313.72,
+                "end": 1314.77
+            },
+            "english": "ROSS: Mm-hm.",
+            "chinese": "嗯哼"
+        },
+        {
+            "num": 363,
+            "time": {
+                "start": 1314.93,
+                "end": 1317.35
+            },
+            "english": "Wait, wait. Hey, what's with you?",
+            "chinese": "等等，你怎么啦？"
+        },
+        {
+            "num": 364,
+            "time": {
+                "start": 1319.65,
+                "end": 1322.32
+            },
+            "english": "I just grabbed a spoon.",
+            "chinese": "我刚刚拿起汤匙"
+        },
+        {
+            "num": 365,
+            "time": {
+                "start": 1330.49,
+                "end": 1331.95
+            },
+            "english": "Can't believe what I'm hearing.",
+            "chinese": "我真不敢相信我听到的"
+        },
+        {
+            "num": 366,
+            "time": {
+                "start": 1332.2,
+                "end": 1333.87
+            },
+            "english": "I can't believe What I'm hearing here",
+            "chinese": "我真不敢相信我听到的"
+        },
+        {
+            "num": 367,
+            "time": {
+                "start": 1334.04,
+                "end": 1336.25
+            },
+            "english": "- What? I said you had... - What? I said you had...",
+            "chinese": "- 怎么啦，我说你有个 - 我说你有个…"
+        },
+        {
+            "num": 368,
+            "time": {
+                "start": 1337.29,
+                "end": 1339.75
+            },
+            "english": "- Would you stop? - Oh, was I doing it again?",
+            "chinese": "- 有完没完 - 我的老毛病又犯了？"
+        },
+        {
+            "num": 369,
+            "time": {
+                "start": 1339.96,
+                "end": 1341.79
+            },
+            "english": "ALL: Yes.",
+            "chinese": "没错"
+        },
+        {
+            "num": 370,
+            "time": {
+                "start": 1342.84,
+                "end": 1344.84
+            },
+            "english": "WOMAN: Would anybody like more coffee?",
+            "chinese": "有人要咖啡吗？"
+        },
+        {
+            "num": 371,
+            "time": {
+                "start": 1346.72,
+                "end": 1349.18
+            },
+            "english": "Did you make it or are you just serving it?",
+            "chinese": "你泡的，还是你只是端过来？"
+        },
+        {
+            "num": 372,
+            "time": {
+                "start": 1349.34,
+                "end": 1352.64
+            },
+            "english": "- I'm just serving it. CHANDLER: I'll have a cup of coffee.",
+            "chinese": "- 只是端过来 - 好吧，我要杯咖啡"
+        },
+        {
+            "num": 373,
+            "time": {
+                "start": 1353.1,
+                "end": 1354.35
+            },
+            "english": "Kids, new dream.",
+            "chinese": "孩子们，新的梦…"
+        },
+        {
+            "num": 374,
+            "time": {
+                "start": 1355.1,
+                "end": 1358.43
+            },
+            "english": "I'm in Las Vegas. I'm Liza Minnelli.",
+            "chinese": "我在拉斯维加斯 我是丽莎·明妮莉…"
+        }
+    ]
+}

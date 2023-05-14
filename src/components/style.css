@@ -1,0 +1,36 @@
+.left-area{
+    width: 50%;
+    height: 100vh;
+    background-color: #96f2d7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-area{
+    width: 50%;
+    height: 100vh;
+    background-color:#66d9e8;
+    overflow-y: auto;
+}
+
+.right-area__subtitle{
+    display: flex;
+    flex-direction:  row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right-area__subtitle p {
+    width: 50%;
+}
+
+.right-area__subtitle_e{
+    margin-right: 10px;
+}
+
+.play-btn{
+    margin: 20px;
+    cursor: pointer;
+}
